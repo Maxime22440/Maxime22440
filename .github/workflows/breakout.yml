@@ -18,9 +18,9 @@ jobs:
         with:
           github_username: ${{ github.repository_owner }}
           enable_ghost_bricks: false
-          paddle_color: "#ff2fd5"
-          ball_color: "#00f0ff"
-          bricks_colors: "#2d1b4e,#5b2a86,#9b30ff,#ff2fd5,#00f0ff"
+          paddle_color: "#39ff14"
+          ball_color: "#ccffcc"
+          bricks_colors: "#0a2e0a,#0f5c1a,#13a10e,#39ff14,#ccffcc"
 
       - name: Publier sur la branche github-breakout
         run: |
