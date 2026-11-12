@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Maxime 👋</h1>
-<h3 align="center">Full-stack developer · Backend lover · CodinGame Top 200 🏆</h3>
+<h3 align="center">Full-stack Laravel · Vue.js developer · Lead Tech SaaS · Freelance 🏆 CodinGame Top 150</h3>
 
 <p align="center">
   <img alt="Breakout" src="https://raw.githubusercontent.com/Maxime22440/Maxime22440/github-breakout/images/custom.svg" />
@@ -9,20 +9,21 @@
 
 ### 🧑‍💻 About me
 
-- 💼 Developer with **3+ years** of professional experience
-- ⚙️ I build robust back-ends (auth, business logic, video streaming) and modern front-ends
-- 🏆 Ranked in the **Top 200 on [CodinGame](https://www.codingame.com)**: I love algorithmic challenges
-- 🔭 Currently working on **[jobradar](https://github.com/Maxime22440/jobradar)**, observability for scheduled & async jobs
-
+- 🚀 Full-stack **Laravel · Vue.js** developer and **Lead Tech** on SaaS products
+- 🏗️ Currently leading the full rewrite of a consumer SaaS: legacy → Laravel + Vue/Inertia, **210+ tables migrated**, 160k+ accounts across 6 countries, shipped with **zero downtime**
+- 🔧 I take over, refactor and rescue Laravel apps in production: audits, legacy migrations, version upgrades, critical bug fixes
+- 💳 Payments & integrations (Stripe, banking APIs), Docker, CI/CD, Nginx: from design to deployment
+- 🏆 **Top 100 worldwide on [CodinGame](https://www.codingame.com)** (top 0.01%)
+- 💼 **Open to freelance missions**: short assignments, team reinforcement, production troubleshooting, full remote from Tours, France 🇫🇷
+  
 ### 🛠️ Tech stack
 
 <p>
-  <img src="https://img.shields.io/badge/PHP-0d1117?style=for-the-badge&logo=php&logoColor=39ff14" />
-  <img src="https://img.shields.io/badge/Laravel-0d1117?style=for-the-badge&logo=laravel&logoColor=39ff14" />
-  <img src="https://img.shields.io/badge/Vue.js-0d1117?style=for-the-badge&logo=vuedotjs&logoColor=39ff14" />
-  <img src="https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=39ff14" />
-  <img src="https://img.shields.io/badge/Vite-0d1117?style=for-the-badge&logo=vite&logoColor=39ff14" />
-  <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=39ff14" />
+    <img src="https://img.shields.io/badge/Inertia.js-0d1117?style=for-the-badge&logo=inertia&logoColor=39ff14" />
+  <img src="https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=39ff14" />
+  <img src="https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=39ff14" />
+  <img src="https://img.shields.io/badge/Stripe-0d1117?style=for-the-badge&logo=stripe&logoColor=39ff14" />
+  <img src="https://img.shields.io/badge/Flutter-0d1117?style=for-the-badge&logo=flutter&logoColor=39ff14" />
 </p>
 
 ### 📫 Contact
