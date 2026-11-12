@@ -30,7 +30,7 @@
 
 <p>
   <a href="mailto:maxime.rousseau99@gmail.com"><img src="https://img.shields.io/badge/maxime.rousseau99@gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=39ff14" /></a>
-    <a href="https://www.codingame.com/profile/b50574ae1c4f6ba9b678601d20d2fe660000515"><img src="https://img.shields.io/badge/CodinGame-Top_150-0d1117?style=for-the-badge&logo=codingame&logoColor=39ff14&labelColor=0d1117&color=39ff14" /></a>
+      <a href="https://www.codingame.com/profile/b50574ae1c4f6ba9b678601d20d2fe660000515"><img src="https://img.shields.io/badge/CodinGame_·_Top_150-0d1117?style=for-the-badge&logo=codingame&logoColor=39ff14" /></a>
 </p>
 
 <!--
