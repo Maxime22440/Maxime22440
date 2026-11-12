@@ -1,0 +1,35 @@
+name: generate breakout svg
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate-svg:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: cyprieng/github-breakout@v1
+        with:
+          github_username: ${{ github.repository_owner }}
+          enable_ghost_bricks: false
+          paddle_color: "#ff2fd5"
+          ball_color: "#00f0ff"
+          bricks_colors: "#2d1b4e,#5b2a86,#9b30ff,#ff2fd5,#00f0ff"
+
+      - name: Publier sur la branche github-breakout
+        run: |
+          mkdir -p /tmp/img && mv output/*.svg /tmp/img/
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git checkout --orphan github-breakout
+          git rm -rf .
+          mkdir images && mv /tmp/img/* images/
+          git add images
+          git commit -m "update breakout" || echo "rien à commit"
+          git push --force origin github-breakout
