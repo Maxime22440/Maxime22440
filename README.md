@@ -29,11 +29,8 @@
 ### 📫 Contact
 
 <p>
-  <a href="https://www.linkedin.com/in/TON-LIEN"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=39ff14" /></a>
-  <a href="mailto:TON-EMAIL"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=39ff14" /></a>
+  <a href="mailto:maxime.rousseau99@gmail.com"><img src="https://img.shields.io/badge/maxime.rousseau99@gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=39ff14" /></a>
 </p>
-<img alt="Breakout" src="https://raw.githubusercontent.com/Maxime22440/Maxime22440/github-breakout/images/custom.svg" />
-
 
 <!--
 **Maxime22440/Maxime22440** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
