@@ -13,7 +13,7 @@
 - 🏗️ Currently leading the full rewrite of a consumer SaaS: legacy → Laravel + Vue/Inertia, **210+ tables migrated**, 160k+ accounts across 6 countries, shipped with **zero downtime**
 - 🔧 I take over, refactor and rescue Laravel apps in production: audits, legacy migrations, version upgrades, critical bug fixes
 - 💳 Payments & integrations (Stripe, banking APIs), Docker, CI/CD, Nginx: from design to deployment
-- 🏆 **Top 150 worldwide on [CodinGame](https://www.codingame.com/profile/b50574ae1c4f6ba9b678601d20d2fe660000515)** (top 0.01%)
+- 🏆 **Top 100 worldwide on [CodinGame](https://www.codingame.com/profile/b50574ae1c4f6ba9b678601d20d2fe660000515)** (top 0.01%)
 - 💼 **Open to missions**: short assignments, team reinforcement, production troubleshooting, full remote from Tours, France 🇫🇷
   
 ### 🛠️ Tech stack
