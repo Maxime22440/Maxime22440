@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Maxime 👋</h1>
-<h3 align="center">Full-stack Laravel · Vue.js developer · Lead Tech SaaS · Freelance 🏆 CodinGame Top 150</h3>
+<h3 align="center">Full-stack Laravel · Vue.js developer · Lead Tech SaaS · Freelance 🏆 CodinGame Top 100</h3>
 
 <p align="center">
   <img alt="Breakout" src="https://raw.githubusercontent.com/Maxime22440/Maxime22440/github-breakout/images/custom.svg" />
@@ -30,7 +30,7 @@
 
 <p>
   <a href="mailto:maxime.rousseau99@gmail.com"><img src="https://img.shields.io/badge/maxime.rousseau99@gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=39ff14" /></a>
-      <a href="https://www.codingame.com/profile/b50574ae1c4f6ba9b678601d20d2fe660000515"><img src="https://img.shields.io/badge/CodinGame_·_Top_150-0d1117?style=for-the-badge&logo=codingame&logoColor=39ff14" /></a>
+      <a href="https://www.codingame.com/profile/b50574ae1c4f6ba9b678601d20d2fe660000515"><img src="https://img.shields.io/badge/CodinGame_·_Top_100-0d1117?style=for-the-badge&logo=codingame&logoColor=39ff14" /></a>
 </p>
 
 <!--
